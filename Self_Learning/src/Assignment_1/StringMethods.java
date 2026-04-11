@@ -1,6 +1,6 @@
 package Assignment_1;
 
-public class StringMethods {
+public class Q3_StringMethods {
 
 	public static void main(String[] args) {
 		
@@ -9,7 +9,7 @@ public class StringMethods {
 		
 		System.out.println(st);
 		System.out.println(s);
-		System.out.println(".....Methods....");
+		System.out.println(".....Methods in String....");
 		
 		System.out.println("lenght(): " +st.length());
 		System.out.println("Uppeecase(): "+ st.toUpperCase());
